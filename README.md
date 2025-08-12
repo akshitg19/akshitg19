@@ -8,10 +8,10 @@
 
 <p>
 <a href="https://www.linkedin.com/in/akshitganesh" style="display: inline-block; background-color: white; padding: 5px; border-radius: 5px; margin: 5px; text-decoration: none;">
-<img height="50" src="https://i.imgur.com/JzqBQmn.png" alt="LinkedIn Icon"/>
+<img height="50" src="https://i.imgur.com/1tnpJld.png" alt="LinkedIn Icon"/>
 </a>
 <a href="https://uwprod-my.sharepoint.com/:b:/g/personal/ganeshkumar2_wisc_edu/EUFNxC5Rj3pAkaGVGuwDu9gBG1hCBf8F1LOt31J7xb3L6g?e=IqVEfz" style="display: inline-block; background-color: white; padding: 5px; border-radius: 5px; margin: 5px; text-decoration: none;">
-<img height="50" src="https://i.imgur.com/faUki2S.png" alt="Resume Icon"/>
+<img height="50" src="https://i.imgur.com/qbUqM0i.png" alt="Resume Icon"/>
 </a>
 </p>
 
