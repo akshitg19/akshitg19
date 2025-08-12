@@ -34,30 +34,33 @@
 - contact:
     - email: ganeshkumar2@wisc.edu
 ```
+
+---
+
 ## 💻 My Pinned Projects
 
 <p align="center">
   <a href="https://github.com/akshitg19/Llama2-Text-to-SQL-Fine-tuning">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitg19&repo=Llama2-Text-to-SQL-Fine-tuning&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitg19&repo=Llama2-Text-to-SQL-Fine-tuning&theme=dracula&cache_seconds=3600" />
   </a>
   <a href="https://github.com/akshitg19/Image_Captioning_Transformer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitg19&repo=Image_Captioning_Transformer&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitg19&repo=Image_Captioning_Transformer&theme=dracula&cache_seconds=3600" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/akshitg19/mamba-from-scratch">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitg19&repo=mamba-from-scratch&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitg19&repo=mamba-from-scratch&theme=dracula&cache_seconds=3600" />
   </a>
   <a href="https://github.com/akshitg19/UW-Madison-CS-Advisor-Chatbot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitg19&repo=UW-Madison-CS-Advisor-Chatbot&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitg19&repo=UW-Madison-CS-Advisor-Chatbot&theme=dracula&cache_seconds=3600" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/akshitg19/Stock-Price-Prediction-App">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitg19&repo=Stock-Price-Prediction-App&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitg19&repo=Stock-Price-Prediction-App&theme=dracula&cache_seconds=3600" />
   </a>
   <a href="https://github.com/akshitg19/User-Profile-Management-System">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitg19&repo=User-Profile-Management-System&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitg19&repo=User-Profile-Management-System&theme=dracula&cache_seconds=3600" />
   </a>
 </p>
 
