@@ -12,4 +12,6 @@
 </a>
 </p>
 
+<img src="https://media.tenor.com/zY9_v52p54AAAAAM/neural-network.gif" width="650px" />
+
 </div>
